@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371597182967",
+    "project_id": "shophop-b4133",
+    "storage_bucket": "shophop-b4133.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371597182967:android:3453c45ab18ac672e350f2",
+        "android_client_info": {
+          "package_name": "com.example.shop_hop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfK7bcqNfrlHYppmZwv_MTZMYr2J7_pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
